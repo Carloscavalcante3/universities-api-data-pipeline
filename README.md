@@ -27,11 +27,13 @@ O pipeline segue o modelo **ETL**:
    Persistência dos dados em um banco relacional SQLite.
 
 ## Estrutura do Projeto
+```
 universities-api-etl
 │
 ├── universities_api_etl.ipynb
 ├── universities.db
 └── README.md
+```
 
 
 ## Objetivo
